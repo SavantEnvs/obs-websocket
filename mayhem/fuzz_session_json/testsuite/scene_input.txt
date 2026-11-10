@@ -1,0 +1,6 @@
+{"op":6,"d":{"requestType":"CreateScene","requestId":"1","requestData":{"sceneName":"A"}}}
+{"op":6,"d":{"requestType":"CreateInput","requestId":"1","requestData":{"sceneName":"A","inputName":"T","inputKind":"fuzz_input","inputSettings":{"text":"hi","count":7}}}}
+{"op":6,"d":{"requestType":"GetInputSettings","requestId":"1","requestData":{"inputName":"T"}}}
+{"op":6,"d":{"requestType":"SetInputSettings","requestId":"1","requestData":{"inputName":"T","inputSettings":{"text":"bye"},"overlay":true}}}
+{"op":6,"d":{"requestType":"GetSceneItemList","requestId":"1","requestData":{"sceneName":"A"}}}
+{"op":6,"d":{"requestType":"RemoveInput","requestId":"1","requestData":{"inputName":"T"}}}

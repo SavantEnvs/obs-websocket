@@ -1,0 +1,9 @@
+{"op":6,"d":{"requestType":"CreateScene","requestId":"1","requestData":{"sceneName":"S1"}}}
+{"op":6,"d":{"requestType":"CreateScene","requestId":"1","requestData":{"sceneName":"S2"}}}
+{"op":6,"d":{"requestType":"CreateSceneItem","requestId":"1","requestData":{"sceneName":"S1","sourceName":"S2"}}}
+{"op":6,"d":{"requestType":"GetSceneItemTransform","requestId":"1","requestData":{"sceneName":"S1","sceneItemId":1}}}
+{"op":6,"d":{"requestType":"SetSceneItemTransform","requestId":"1","requestData":{"sceneName":"S1","sceneItemId":1,"sceneItemTransform":{"positionX":10.5,"rotation":90,"cropTop":3,"scaleX":2}}}}
+{"op":6,"d":{"requestType":"SetSceneItemBlendMode","requestId":"1","requestData":{"sceneName":"S1","sceneItemId":1,"sceneItemBlendMode":"OBS_BLEND_ADDITIVE"}}}
+{"op":6,"d":{"requestType":"SetSceneItemIndex","requestId":"1","requestData":{"sceneName":"S1","sceneItemId":1,"sceneItemIndex":0}}}
+{"op":6,"d":{"requestType":"DuplicateSceneItem","requestId":"1","requestData":{"sceneName":"S1","sceneItemId":1}}}
+{"op":6,"d":{"requestType":"RemoveSceneItem","requestId":"1","requestData":{"sceneName":"S1","sceneItemId":1}}}

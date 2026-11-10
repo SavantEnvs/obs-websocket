@@ -1,0 +1,2 @@
+{"op":1,"d":{"rpcVersion":1,"authentication":"LFrbPYL2SecvCplGvgJ9YcvKjQePEIqGDPuCinHO+cs="}}
+{"op":6,"d":{"requestType":"GetVersion","requestId":"1"}}

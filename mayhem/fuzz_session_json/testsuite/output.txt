@@ -1,0 +1,12 @@
+{"op":6,"d":{"requestType":"GetStreamStatus","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetRecordStatus","requestId":"1"}}
+{"op":6,"d":{"requestType":"StartRecord","requestId":"1"}}
+{"op":6,"d":{"requestType":"PauseRecord","requestId":"1"}}
+{"op":6,"d":{"requestType":"ResumeRecord","requestId":"1"}}
+{"op":6,"d":{"requestType":"SplitRecordFile","requestId":"1"}}
+{"op":6,"d":{"requestType":"CreateRecordChapter","requestId":"1","requestData":{"chapterName":"c"}}}
+{"op":6,"d":{"requestType":"StopRecord","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetVirtualCamStatus","requestId":"1"}}
+{"op":6,"d":{"requestType":"StartReplayBuffer","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetOutputList","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetCanvasList","requestId":"1"}}

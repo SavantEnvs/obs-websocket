@@ -1,0 +1,10 @@
+{"op":6,"d":{"requestId":"1"}}
+{"op":6,"d":{"requestType":"","requestId":"2"}}
+{"op":6,"d":{"requestType":"GetInputSettings","requestId":"3","requestData":5}}
+{"op":6,"d":{"requestType":"GetInputSettings","requestId":"1","requestData":{"inputName":7}}}
+{"op":6,"d":{"requestType":"SetInputVolume","requestId":"1","requestData":{"inputName":"x","inputVolumeMul":-1}}}
+{"op":99,"d":{}}
+{"op":"6"}
+{"d":{}}
+[1,2]
+5

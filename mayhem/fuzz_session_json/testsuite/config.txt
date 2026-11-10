@@ -1,0 +1,10 @@
+{"op":6,"d":{"requestType":"GetPersistentData","requestId":"1","requestData":{"realm":"OBS_WEBSOCKET_DATA_REALM_GLOBAL","slotName":"k"}}}
+{"op":6,"d":{"requestType":"SetPersistentData","requestId":"1","requestData":{"realm":"OBS_WEBSOCKET_DATA_REALM_GLOBAL","slotName":"k","slotValue":{"a":[1,2]}}}}
+{"op":6,"d":{"requestType":"GetPersistentData","requestId":"1","requestData":{"realm":"OBS_WEBSOCKET_DATA_REALM_PROFILE","slotName":"k"}}}
+{"op":6,"d":{"requestType":"SetProfileParameter","requestId":"1","requestData":{"parameterCategory":"SimpleOutput","parameterName":"VBitrate","parameterValue":"2500"}}}
+{"op":6,"d":{"requestType":"GetProfileParameter","requestId":"1","requestData":{"parameterCategory":"SimpleOutput","parameterName":"VBitrate"}}}
+{"op":6,"d":{"requestType":"GetVideoSettings","requestId":"1"}}
+{"op":6,"d":{"requestType":"SetVideoSettings","requestId":"1","requestData":{"fpsNumerator":60,"fpsDenominator":1,"baseWidth":1280,"baseHeight":720}}}
+{"op":6,"d":{"requestType":"SetStreamServiceSettings","requestId":"1","requestData":{"streamServiceType":"rtmp_custom","streamServiceSettings":{"server":"rtmp://x/y","key":"k"}}}}
+{"op":6,"d":{"requestType":"GetStreamServiceSettings","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetRecordDirectory","requestId":"1"}}

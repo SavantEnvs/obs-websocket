@@ -1,0 +1,9 @@
+{"op":6,"d":{"requestType":"GetSceneTransitionList","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetCurrentSceneTransition","requestId":"1"}}
+{"op":6,"d":{"requestType":"SetCurrentSceneTransition","requestId":"1","requestData":{"transitionName":"Fade"}}}
+{"op":6,"d":{"requestType":"SetCurrentSceneTransitionDuration","requestId":"1","requestData":{"transitionDuration":500}}}
+{"op":6,"d":{"requestType":"SetCurrentSceneTransitionSettings","requestId":"1","requestData":{"transitionSettings":{"x":1}}}}
+{"op":6,"d":{"requestType":"SetSceneSceneTransitionOverride","requestId":"1","requestData":{"sceneName":"Scene","transitionName":"Cut","transitionDuration":100}}}
+{"op":6,"d":{"requestType":"SetStudioModeEnabled","requestId":"1","requestData":{"studioModeEnabled":true}}}
+{"op":6,"d":{"requestType":"SetCurrentPreviewScene","requestId":"1","requestData":{"sceneName":"Scene"}}}
+{"op":6,"d":{"requestType":"TriggerStudioModeTransition","requestId":"1"}}

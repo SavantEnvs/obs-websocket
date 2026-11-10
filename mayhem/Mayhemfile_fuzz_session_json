@@ -1,0 +1,12 @@
+project: savantenvs/obs-websocket
+target: fuzz_session_json
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_session_json/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_session_json
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/fuzz_session_json/fuzz_session_json.dict
+    timeout: 30
+    env:
+      MFUZZ_COMPAT_LEVEL: '2'

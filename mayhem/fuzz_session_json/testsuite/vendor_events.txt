@@ -1,0 +1,11 @@
+{"op":6,"d":{"requestType":"CallVendorRequest","requestId":"1","requestData":{"vendorName":"v","requestType":"r","requestData":{"a":1}}}}
+{"op":6,"d":{"requestType":"BroadcastCustomEvent","requestId":"1","requestData":{"eventData":{"x":"y"}}}}
+{"op":6,"d":{"requestType":"GetHotkeyList","requestId":"1"}}
+{"op":6,"d":{"requestType":"TriggerHotkeyByName","requestId":"1","requestData":{"hotkeyName":"ObsBrowser.Refresh"}}}
+{"op":6,"d":{"requestType":"TriggerHotkeyByKeySequence","requestId":"1","requestData":{"keyId":"OBS_KEY_A","keyModifiers":{"shift":true,"control":false}}}}
+{"op":6,"d":{"requestType":"GetSpecialInputs","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetInputKindList","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetSourceFilterKindList","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetMonitorList","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetSourceActive","requestId":"1","requestData":{"sourceName":"Scene"}}}
+{"op":6,"d":{"requestType":"GetSourceScreenshot","requestId":"1","requestData":{"sourceName":"Scene","imageFormat":"png","imageWidth":64}}}

@@ -1,0 +1,3 @@
+{"op":1,"d":{"rpcVersion":1,"authentication":"LFrbPYL2SecvCplGvgJ9YcvKjQePEIqGDPuCinHO+cs=","eventSubscriptions":2047}}
+{"op":3,"d":{"eventSubscriptions":0}}
+{"op":6,"d":{"requestType":"GetStats","requestId":"1"}}

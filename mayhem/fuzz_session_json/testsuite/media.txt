@@ -1,0 +1,5 @@
+{"op":6,"d":{"requestType":"CreateInput","requestId":"1","requestData":{"sceneName":"Scene","inputName":"M","inputKind":"fuzz_media_input"}}}
+{"op":6,"d":{"requestType":"GetMediaInputStatus","requestId":"1","requestData":{"inputName":"M"}}}
+{"op":6,"d":{"requestType":"SetMediaInputCursor","requestId":"1","requestData":{"inputName":"M","mediaCursor":500}}}
+{"op":6,"d":{"requestType":"OffsetMediaInputCursor","requestId":"1","requestData":{"inputName":"M","mediaCursorOffset":-100}}}
+{"op":6,"d":{"requestType":"TriggerMediaInputAction","requestId":"1","requestData":{"inputName":"M","mediaAction":"OBS_WEBSOCKET_MEDIA_INPUT_ACTION_PAUSE"}}}

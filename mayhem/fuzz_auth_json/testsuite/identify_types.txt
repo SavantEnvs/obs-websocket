@@ -1,0 +1,4 @@
+{"op":1,"d":{"rpcVersion":"1","authentication":5}}
+{"op":1,"d":{"rpcVersion":1,"authentication":"LFrbPYL2SecvCplGvgJ9YcvKjQePEIqGDPuCinHO+cs=","eventSubscriptions":"x"}}
+{"op":1}
+{"op":1,"d":[]}

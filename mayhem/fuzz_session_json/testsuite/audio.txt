@@ -1,0 +1,7 @@
+{"op":6,"d":{"requestType":"CreateInput","requestId":"1","requestData":{"sceneName":"Scene","inputName":"Mic","inputKind":"fuzz_audio_input"}}}
+{"op":6,"d":{"requestType":"SetInputMute","requestId":"1","requestData":{"inputName":"Mic","inputMuted":true}}}
+{"op":6,"d":{"requestType":"SetInputVolume","requestId":"1","requestData":{"inputName":"Mic","inputVolumeDb":-6.5}}}
+{"op":6,"d":{"requestType":"SetInputAudioBalance","requestId":"1","requestData":{"inputName":"Mic","inputAudioBalance":0.25}}}
+{"op":6,"d":{"requestType":"SetInputAudioSyncOffset","requestId":"1","requestData":{"inputName":"Mic","inputAudioSyncOffset":120}}}
+{"op":6,"d":{"requestType":"SetInputAudioTracks","requestId":"1","requestData":{"inputName":"Mic","inputAudioTracks":{"1":true,"2":false}}}}
+{"op":6,"d":{"requestType":"GetInputAudioMonitorType","requestId":"1","requestData":{"inputName":"Mic"}}}

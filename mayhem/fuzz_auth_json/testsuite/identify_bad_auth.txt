@@ -1,0 +1,1 @@
+{"op":1,"d":{"rpcVersion":1,"authentication":"AAAA"}}

@@ -1,0 +1,3 @@
+{"op":6,"d":{"requestType":"GetVersion","requestId":"1"}}
+{"op":6,"d":{"requestType":"GetStats","requestId":"2"}}
+{"op":6,"d":{"requestType":"GetSceneList","requestId":"3"}}

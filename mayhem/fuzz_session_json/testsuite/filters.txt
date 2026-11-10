@@ -1,0 +1,7 @@
+{"op":6,"d":{"requestType":"CreateScene","requestId":"1","requestData":{"sceneName":"F"}}}
+{"op":6,"d":{"requestType":"CreateInput","requestId":"1","requestData":{"sceneName":"F","inputName":"V","inputKind":"fuzz_input"}}}
+{"op":6,"d":{"requestType":"CreateSourceFilter","requestId":"1","requestData":{"sourceName":"V","filterName":"flt","filterKind":"fuzz_filter","filterSettings":{"gain":0.9}}}}
+{"op":6,"d":{"requestType":"GetSourceFilterList","requestId":"1","requestData":{"sourceName":"V"}}}
+{"op":6,"d":{"requestType":"SetSourceFilterEnabled","requestId":"1","requestData":{"sourceName":"V","filterName":"flt","filterEnabled":false}}}
+{"op":6,"d":{"requestType":"SetSourceFilterIndex","requestId":"1","requestData":{"sourceName":"V","filterName":"flt","filterIndex":0}}}
+{"op":6,"d":{"requestType":"RemoveSourceFilter","requestId":"1","requestData":{"sourceName":"V","filterName":"flt"}}}

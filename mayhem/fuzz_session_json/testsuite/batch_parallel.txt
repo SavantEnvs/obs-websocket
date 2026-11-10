@@ -1,0 +1,1 @@
+{"op":8,"d":{"requestId":"b1","requests":[{"requestType":"GetVersion","requestId":"0"},{"requestType":"GetStats","requestId":"1"},{"requestType":"GetSceneList","requestId":"2"}],"executionType":2}}
